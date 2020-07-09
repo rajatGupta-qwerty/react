@@ -1,0 +1,89 @@
+.image1{
+    float: left;
+}
+.image2{
+    float: right;
+}
+.clear{
+  position: relative;
+  left: 180px;
+  font-family:High Tower Text ;
+  color: thistle;
+  font-size:43px;
+}
+.hell{
+    position: relative;
+    left: 27px;
+    color: wheat; 
+    font-size:20px;
+}
+body{
+    background-color: teal;
+}
+.clear2{
+    position: relative;
+    left: 750px;
+    font-family:High Tower Text ;
+    color: thistle;
+    font-size:43px;
+}
+.hell2{
+    position: relative;
+    left: 752px;  
+    color: wheat; 
+    font-size:20px;
+}
+.clear4{
+    position: relative;
+    left: 673px;
+    font-family:High Tower Text ;
+    color: thistle;
+    font-size:43px;
+}
+.hell4{
+    position: relative;
+    left:680px;  
+    color: wheat; 
+    font-size:20px; 
+}
+.clear7{
+    position: relative;
+    left: 156px;
+    bottom: 15px;
+    font-family:High Tower Text ;
+    color: thistle;
+    font-size:43px;  
+}
+.hell7{
+    position: relative;
+    left:159px; 
+    bottom:45px ;
+    color: wheat; 
+    font-size:20px;   
+}
+a.link1{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Californian FB;
+}
+a.link1:hover{
+    text-align: center;
+    font-size: 23px;
+    text-decoration: none;
+    font-family:Californian FB;
+    text-decoration: none
+    
+
+}
+a.link1:visited{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Californian FB;
+    color: darkblue;
+}
+
+.link2{
+    text-align: center;
+}

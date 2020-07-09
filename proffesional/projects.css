@@ -1,0 +1,61 @@
+body{
+    background-image: url(logo-og.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+    .ay:link{
+        color: rgb(255, 255, 255);
+        font-size: 70px;
+     
+        font-family:Castellar;
+        text-align: center;
+        background-color: rgb(35, 35, 35);
+    }
+    .ay:visited{
+        
+        color: rgb(246, 246, 246);
+        font-size: 70px;
+        font-family: Castellar;
+        text-align: center;
+        background-color: rgb(35, 35, 35);
+  
+    }
+    .ay:hover{
+        background-color: rgb(255, 255, 255);
+        color:rgb(107, 103, 103);
+    }
+    .item{
+        text-align: center;
+        margin-top: 146px;
+       
+    }
+    a.link1{
+        text-align: center;
+        font-size: 20px;
+        text-decoration: underline;
+        font-family: Californian FB;
+        padding-top: 20px;
+        color: whitesmoke;
+    }
+    a.link1:hover{
+        text-align: center;
+        font-size: 23px;
+        text-decoration: none;
+        font-family:Californian FB;
+        text-decoration: none
+        
+    
+    }
+    a.link1:visited{
+        text-align: center;
+        font-size: 20px;
+        text-decoration: underline;
+        font-family: Californian FB;
+        color: rgb(255, 255, 255);
+    }
+    
+    .link2{
+        text-align: center;
+    }

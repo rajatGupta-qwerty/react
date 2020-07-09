@@ -1,0 +1,127 @@
+
+
+.header{
+color: aliceblue;
+width: 780px;
+
+text-align: center;
+font-size: 10px;
+background-image:url(react.png) ;
+background-size: 100% 100%;
+background-repeat:no-repeat;
+margin: auto;
+font-weight: 1000px;
+height: 200px;
+
+}
+
+.hello{
+    padding-top: 167px;
+   }
+
+ li{
+    
+    float: left;
+    list-style: none;
+   font-size: 20px;
+   width: 200px;
+   height: 50px;
+   
+   font-family:Century;
+   
+
+   line-height: 50px;
+   text-align: center;
+   display: block;
+  
+}
+
+ul{
+    margin-left: 225px;
+    position: relative;
+    top: -10px;
+    color: ghostwhite;
+    display: block;
+    padding-top: 2px;
+    
+}
+
+body{
+    background-color: teal;
+}
+ 
+.hi{
+    position: relative;
+    right:265px;
+    top: -1.4px;
+  display: block;
+  
+}
+a{
+    color: rgb(255, 255, 255);
+    display: block;
+    background-color: dimgray;
+}
+a:hover{
+   background-color: ghostwhite;
+    color: tomato;
+}
+.hi{
+   visibility: hidden;
+   color: whitesmoke;
+   display: block;
+ 
+}
+
+li:hover .hi{
+    visibility: visible;
+    display: block;
+    
+}
+li:hover .hi a:hover{
+    visibility: visible;
+    color: darkred;
+    display: block;
+    
+}
+
+.r{
+    background-color: rgb(255, 255, 255);
+    color: rgb(253, 5, 5);
+}
+.B1{
+    text-align: center;
+    font-family:Poor Richard;
+    color: thistle;
+    font-weight: 700;
+    font-size: 60px;
+}
+.hum{
+    font-family: Wingdings 3;
+    color: wheat;
+    font-size: 19px;
+}
+.qwe{
+    text-align: center;
+    font-family:Poor Richard;
+    color: thistle;
+    font-weight: 700;
+    font-size: 40px;
+}
+.q{
+    font-family: Wingdings 3;
+    color: wheat;
+    font-size: 19px;  
+}
+.image5{
+    margin-left:auto;
+    margin-right:auto ;
+
+}
+.menu{
+    text-align:center ;
+}
+
+
+
+
